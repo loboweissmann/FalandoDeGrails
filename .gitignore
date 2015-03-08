@@ -1,0 +1,18 @@
+# O que não deveria ir para o Git :)
+
+*.log
+*.class
+
+concot/*.log
+concot/target/*
+concot/.project
+concot/.classpath
+cocnot/eclipse-target/*
+concot/web-app/WEB-INF/classes/*
+
+ddl-plugin-itens/*.log
+ddl-plugin-itens/target/*
+ddl-plugin-itens/.project
+ddl-plugin-itens/.classpath
+ddl-plugin-itens/eclipse-target/*
+ddl-plugin-itens/web-app/WEB-INF/classes/*

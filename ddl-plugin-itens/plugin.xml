@@ -1,0 +1,13 @@
+<plugin name='ddl-plugin-itens' version='1.0.0' grailsVersion='2.4 &gt; *'>
+  <author>Henrique Lobo Weissmann</author>
+  <authorEmail>meuemail@grailsbrasil.com.br</authorEmail>
+  <title>Cadastro de itens da DDL Engenharia</title>
+  <description>Plug-in de exemplo do livro Falando de Grails!
+</description>
+  <documentation>http://grails.org/plugin/ddl-plugin-itens</documentation>
+  <type>DdlPluginItensGrailsPlugin</type>
+  <resources>
+    <resource>concot.Categoria</resource>
+    <resource>concot.Item</resource>
+  </resources>
+</plugin>

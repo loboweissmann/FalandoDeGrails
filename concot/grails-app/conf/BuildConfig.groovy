@@ -23,6 +23,7 @@ grails.project.fork = [
 */
 
 grails.project.dependency.resolver = "maven" // or ivy
+grails.plugin.location."ddl-plugin-itens" = "../ddl-plugin-itens"
 grails.project.dependency.resolution = {
     // inherit Grails' default dependencies
     inherits("global") {
